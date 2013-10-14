@@ -5,4 +5,9 @@ class PagesController < ApplicationController
 	# Add the 'About' page
 	def about 
 	end 
+
+	# Add the 'Team' page
+	def team
+	end 
+
 end

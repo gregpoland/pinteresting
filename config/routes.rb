@@ -10,6 +10,9 @@ Pintresting::Application.routes.draw do
   # Add the route for the 'About' page
   get "about" => "pages#about"
 
+  # Add the route for the 'About' page
+  get "team" => "pages#team"
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
